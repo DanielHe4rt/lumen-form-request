@@ -1,7 +1,7 @@
 {
     "name": "danielhe4rt/lumenformrequest",
     "description": "Package to replicate Laravel FormRequest on Lumen Framework",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Daniel Reis",
